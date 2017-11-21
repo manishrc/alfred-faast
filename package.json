@@ -1,6 +1,6 @@
 {
   "name": "alfred-faast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get Bandwidth and Speed stats",
   "license": "MIT",
   "repository": "manishrc/alfred-faast",
